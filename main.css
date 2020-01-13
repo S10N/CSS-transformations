@@ -1,0 +1,6 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #e84610;
+    transform: rotate(103 degrees);
+}
